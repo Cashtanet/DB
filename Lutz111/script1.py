@@ -125,3 +125,4 @@ import random
 a = 550
 b = 1250
 print(a * b)
+print(b//a)
