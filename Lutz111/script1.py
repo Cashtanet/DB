@@ -119,3 +119,9 @@ import random
 # print(rec['name']['first'])
 # print(rec['jobs'][-1])
 # print(rec)
+
+
+
+a = 550
+b = 1250
+print(a * b)
