@@ -20,11 +20,10 @@
 # print(three_names.a)
 #
 # print(dir(three_names))
-import random
+# import random
 
 # exec(open('module .ру1').read()) #  является еще одним приемом
 # # запуска файлов из интерактивной подсказки без импортирования и последующей перезагрузки.
-
 
 
 # #
@@ -67,8 +66,6 @@ import random
 # print(2**64)
 
 
-
-
 # m = [[1, 2, 3],
 #      [4, 5, 6],
 #      [7, 8, 9]]  #list comprehension (списочные(списковые) включения
@@ -107,7 +104,6 @@ import random
 # print(s)
 
 
-
 # bob1 = dict(name='Bob', job='dev', age=40) # Ключевые слова
 # bob2 = dict(zip(['name', 'job', 'age'], ['Bob', 'dev', 40])) # Связывание вместе
 # rec = {'name': {'first': 'Bob', 'last': 'Smith'},
@@ -119,7 +115,6 @@ import random
 # print(rec['name']['first'])
 # print(rec['jobs'][-1])
 # print(rec)
-
 
 
 a = 550
